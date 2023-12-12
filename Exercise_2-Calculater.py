@@ -2,4 +2,4 @@
 first = input('First: ')
 second = input('Second: ')
 answer = float(first) + float(second)
-print("Answer: " + str(answer))
+print(f"Answer: {str(answer)}")
